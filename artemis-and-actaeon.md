@@ -34,3 +34,5 @@ But his companions, in their ignorance, urge on the eager pack with their usual 
 ```
 
 TO DO: see also https://www.perseus.tufts.edu/hopper/searchresults?q=actaeon
+
+Several versions / translations also available from: https://www.theoi.com/Olympios/ArtemisWrath.html#Aktaion
