@@ -17,7 +17,7 @@ See also Artemis / Diana's relationship with Persephone, presence when the abduc
 Triptolemus and Demophon
 https://www.greekmythology.com/Myths/Mortals/Triptolemus/triptolemus.html
 
-Minthe
+Minthe - mistress of Hades; in some accounts, Persephone turns her into the mint plant; in others, it is Demetewr who trampls on her and turns her into the plant. https://en.wikipedia.org/wiki/Minthe Also https://www.theoi.com/Olympios/DemeterWrath.html#Minthe and  
 
 https://www.csun.edu/~hcfll004/demeter1.html
 
