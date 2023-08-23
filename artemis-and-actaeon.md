@@ -2,7 +2,7 @@
 
 A fabulous tale — with a potential for graphical violence ins some tellings! — that shows something of the character of Artemis, goddess of the hunt, childbirth, and chastity, and daughter of Zeus and Leto (about whom there is another tale to tell...).
 
-Ovid, in the third fable of third book of *Metamorphoses*, describes the tale thus:
+Ovid, in the third fable of the third book of *Metamorphoses*, describes the tale thus:
 
 ```{admonition}
 :class: dropdown
