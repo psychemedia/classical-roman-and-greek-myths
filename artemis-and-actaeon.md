@@ -35,4 +35,28 @@ But his companions, in their ignorance, urge on the eager pack with their usual 
 
 TO DO: see also https://www.perseus.tufts.edu/hopper/searchresults?q=actaeon
 
+https://thetempleofnature.org/_dox/artemis-and-actaeon-metamorphoses-of-myth.pdf
+Diana and Actaeon: Metamorphoses of a Myth
+Author(s): Carl C. Schlam
+Source: Classical Antiquity, Vol. 3, No. 1 (Apr., 1984), pp. 82-110
+
+https://ancient-literature.com/artemis-and-actaeon/
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0160:book=1:chapter=44&highlight=actaeon
+
 Several versions / translations also available from: https://www.theoi.com/Olympios/ArtemisWrath.html#Aktaion
+
+https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0022:text=Library:book=3:chapter=4
+
+https://www.theoi.com/Text/NonnusDionysiaca5.html
+
+
+Philologus 2019; 163(1): 177–183
+Alessandro Schiesaro*
+Nonnus’ Actaeon: Destiny in a Name
+DOI: https://www.degruyter.com/document/doi/10.1515/phil-2018-0030/html
+
+https://archive.org/details/callimachuslycop00calluoft/page/120/mode/2up?q=actaeon
+Callimachus and Lycophron
+by Callimachus; Lycophron; Aratus, Solensis; Mair, G. R. (Gilbert Robinson), b. 1877; Mair, A. W. (Alexander William), 1875-1928
+Publication date 1921
