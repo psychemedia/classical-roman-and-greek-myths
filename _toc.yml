@@ -3,5 +3,4 @@ root: preface
 parts:
   - caption: Demeter and Persephone
     chapters:
-      - file: demeter-and-persephone
       - file: demeter-persephone-homeric-hymn
