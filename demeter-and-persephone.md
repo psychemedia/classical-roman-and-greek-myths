@@ -1,4 +1,4 @@
-# The Tale of Demeter and Persephone
+# Demeter and Persephone
 
 I quite like the Homeric *Hymn to Demeter* as a way of telling this tale (see the reworking of this poem in the next chapter)
 

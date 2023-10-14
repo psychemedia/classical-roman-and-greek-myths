@@ -1,6 +1,10 @@
 format: jb-book
 root: preface
 parts:
-  - caption: Demeter and Persephone
+- caption: Tales Told
+  chapters:
+  - file: demeter-and-persephone
+  - file: demeter-persephone-homeric-hymn
+  - caption: Artemis
     chapters:
       - file: demeter-persephone-homeric-hymn
