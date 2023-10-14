@@ -14,6 +14,8 @@ https://uh.edu/~cldue/texts/demeter.html
 
 See also Artemis / Diana's relationship with Persephone, presence when the abduction occurred: https://www.theoi.com/Olympios/ArtemisMyths.html
 
+? book 5 ovid's metamorphoses
+
 Cyane as trying to prevent the kidnap.
 
 Triptolemus and Demophon
