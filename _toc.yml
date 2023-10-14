@@ -1,12 +1,7 @@
 format: jb-book
 root: preface
-  - caption: Artemis
+parts:
+  - caption: Demeter and Persephone
     chapters:
-      - file: artemis
-      - file: artemis-and-actaeon
-      - file: artemis-and-orion
-      - file: artemis-and-tiresias
-  - caption: Wrath of Hera
-    chapters:
-      - file: hera-wrath-zeus
-      - hera-and-leto
+      - file: demeter-and-perspehone
+      - file: demeter-persephone-homeric-hymn
