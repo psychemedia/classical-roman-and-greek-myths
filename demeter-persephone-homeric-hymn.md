@@ -1,7 +1,7 @@
 # Demeter and Persephone — Reworked from the Homeric Hymn
 
 A version of [*Hymn to Demeter*, translated by Hugh G.Evelyn-White, 1914](https://sacred-texts.com/cla/demeter.htm)
-in three reordered parts. *The telling might also incorporate another part somewehere, of Orpheus and Eurydice, and how they come to meet Hades and Perspephone, and the tale, which is another tale, of how Persephone came to be there.*
+in three reordered parts. *The telling might also incorporate another part somewehere, of Orpheus and Eurydice, and how they come to meet Hades and Persephone, and the tale, which is another tale, of how Persephone came to be there.*
 
 Original book: [Hesiod, the Homeric hymns, and Homerica; with an English translation by Hugh G. Evelyn-White, 1914](https://archive.org/details/hesiodhomerichym00hesi_0/page/288/mode/2up)
 
