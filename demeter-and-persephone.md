@@ -1,5 +1,5 @@
 
-# Demeter and Perspehone
+# Demeter and Persephone
 
 *I think I want to tell this as a Demeter story.*
 
@@ -13,6 +13,8 @@ https://sacred-texts.com/cla/demeter.htm
 https://uh.edu/~cldue/texts/demeter.html
 
 See also Artemis / Diana's relationship with Persephone, presence when the abduction occurred: https://www.theoi.com/Olympios/ArtemisMyths.html
+
+Cyane as trying to prevent the kidnap.
 
 Triptolemus and Demophon
 https://www.greekmythology.com/Myths/Mortals/Triptolemus/triptolemus.html
