@@ -1,6 +1,6 @@
 # Demeter and Persephone
 
-I quite like the Homeric *Hymn to Demeter* as a way of telling this tale (see the reworking of this poem in the next chapter)
+One of my favourite classical tales, that explains the two halves of the year by way of the descent to the underworld by Persephone for the winter months, and her return to the upper world for the remaining months. In terms of tellings, I quite like the Homeric *Hymn to Demeter* (see the reworking of this poem in the next chapter)
 
 ```{admonition} Homeric *Hymn to Demeter*, transl. Evelyn-White, 1914
 :class: dropdown
@@ -95,27 +95,15 @@ So spake Rhea. And rich-crowned Demeter did not refuse but straightway made frui
 And now, queen of the land of sweet Eleusis and sea-girt Paros and rocky Antron, lady, giver of good gifts, bringer of seasons, queen Deo, be gracious, you and your daughter all beauteous Persephone, and for my song grant me heart-cheering substance. And now I will remember you and another song also.
 ```
 
-
-Ovid Metamorphoses
-https://classics.mit.edu/Ovid/metam.mb.txt
-ee bottom for copyright. Available online at
-    http://classics.mit.edu//Ovid/metam.html
+There is also version in Ovid's *Metamorphoses*:
 
 ```{admonition} Ovid, "The Rape of Proserpine", *Metamorphoses*
 :class: dropdown
 
 Metamorphoses
 By Ovid
-https://archive.org/details/bim_eighteenth-century_ovids-metamorphoses-in-_ovid_1717/page/163/mode/2up
-Ovid's Metamorphoses in fifteen books. Translated by the most eminent hands. Adorn'd with sculptures.  1717
-by Ovid
 
-Publication date 1717
-
-Book V  
-p160-
-
-Translated by Sir Samuel Garth, John Dryden, et al
+in *Ovid's Metamorphoses in fifteen books*, translated Translated by Sir Samuel Garth, John Dryden, et al., 1717, Book V, [p160- ](https://archive.org/details/bim_eighteenth-century_ovids-metamorphoses-in-_ovid_1717/page/163/mode/2up):
 
 The Rape of Proserpine
 
@@ -423,37 +411,63 @@ From whence she came, and why a sacred well.
 ```
 
 
-Demeter and Persephone
-
-https://www.theoi.com/Olympios/Demeter.html
+---
 
 
-Homeric hymn to Demeter
-https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/
+```{admonition} Diodorus Siculus, *The Rape of Core*
+:class: dropdown
 
-https://sacred-texts.com/cla/demeter.htm
+In Diodorus Siculus, *Library of History*,  [V. 1 - 8](https://www.theoi.com/Text/DiodorusSiculus5A.html):
 
-https://uh.edu/~cldue/texts/demeter.html
+DEMETER AND THE RAPE OF CORE
 
-See also Artemis / Diana's relationship with Persephone, presence when the abduction occurred: https://www.theoi.com/Olympios/ArtemisMyths.html
+[also Core, Cora, Kore - "the mainden"; in the Roman, *Proserpina*]
 
-? book 5 ovid's metamorphoses
+[5.2.3] The Siceliotae who dwell in the island have received the tradition from their ancestors, the report having ever been handed down successively from earliest time by one generation to the next, that the island is sacred to Demeter and Corê; although there are certain poets who recount the myth that at the marriage of Pluton and Persephonê Zeus gave this island as a wedding present7 to the bride.
 
-Cyane as trying to prevent the kidnap.
+[5.2.4] That the ancient inhabitants of Sicily, the Sicani, were indigenous, is stated by the best authorities among historians, and also that the goddesses we have mentioned made their first appearance on this island, and that it was the first, because of the fertility of the soil, to bring forth the fruit of the corn, facts to which the most renowned of the poets also bears witness when he writes:8
 
-Triptolemus and Demophon
-https://www.greekmythology.com/Myths/Mortals/Triptolemus/triptolemus.html
+But all these things grow there for them unsown
+And e’en untilled, both wheat and barley, yea,
+And vines, which yield such wine as fine grapes give,
+And rain of Zeus gives increase unto them.
 
-Minthe - mistress of Hades; in some accounts, Persephone turns her into the mint plant; in others, it is Demetewr who trampls on her and turns her into the plant. https://en.wikipedia.org/wiki/Minthe Also https://www.theoi.com/Olympios/DemeterWrath.html#Minthe and 
+[5.2.5] Indeed, in the plain of the Leontini, we are told, and throughout many other parts of Sicily the wheat men call “wild” grows even to this day. And, speaking generally, before the corn was discovered,9 if one were to raise the question, what manner of land it was of the inhabited earth where the fruits we have mentioned appeared for the firs time, the meed of honour may reasonably be accorded to the richest land; and in keeping with what we have stated, it is also to be observed that the goddesses who made this discovery are those who receive the highest honours among the Siceliotae.
 
-https://www.csun.edu/~hcfll004/demeter1.html
+[5.3.1] Again, the fact that the Rape of Corê took place in Sicily is, men say, proof most evident that the goddesses made this island their favourite retreat because it was cherished by them before all others.
 
-https://hellenism.net/greece/greek-mythology/greek-myths/triptolemus/
+[5.3.2] And the Rape of Corê, the myth relates, took place in the meadows in the territory of Enna. The spot lies near the city, a place of striking beauty for its violets and every other kind of flower and worthy of the goddess. And the story is told that, because of the sweet odour of the flowers growing there, trained hunting dogs are unable to hold the trail, because their natural sense of smell is balked. And the meadow we have mentioned is level in the centre and well watered throughout, but on its periphery it rises high and falls off with precipitous cliffs on every side. And it is conceived of as lying in the very centre of the island, which is the reason why certain writers call it the navel of Sicily.
 
+[5.3.3] Near to it also are sacred groves, surrounded by marshy flats, and a huge grotto which contains a chasm which leads down into the earth and opens to the north, and through it, the myth relates, Pluton, coming out with his chariot, effected the Rape of Corê. And the violets, we are told, and the rest of the flowers which supply the sweet odour continue to boom, to one’s amazement, throughout the entire year, and so the whole aspect of the place is one of flowers and delight.
 
+[5.3.4] And both Athena and Artemis, the myth goes on to say, who had made the same choice of maidenhood as had Corê and were reared together with her, joined with her in gathering the flowers, and all of them together wove the robe for their father Zeus. And because of the time they had spent together and their intimacy they all loved this island above any other, and each one of them received for her portion a territory, Athena receiving hers in the region of Himera, where the Nymphs, to please Athena, caused the springs of warm water10 to gush forth on the occasion of the visit of Heracles to the island, and the natives consecrated a city to her and a plot of ground which to this day is called Athena’s.
 
-https://www.theoi.com/Khthonios/HaidesPersephone2.html
+[5.3.5] And Artemis received from the gods the island at Syracuse which was named after her, by both the oracles and men, Ortygia.11 On this island likewise these Nymphs, to please Artemis, caused a great fountain to gush forth to which was given the name Arethusa.
 
+[5.3.6] And not only in ancient times did this fountain contain large fish in great numbers, but also in our own day we find these fish still there, considered to be holy and not to be touched by men; and on many occasions, when certain men have eaten them amid stress of war, the deity has shown a striking sign and has visited with great sufferings such as dared to take them for food. Of these matters we shall give an exact account in connection with the appropriate period of time.12
 
-https://www.theoi.com/Text/ClaudianProserpine.html
-CLAUDIAN, RAPE OF PROSERPINE
+[5.4.1] Like the two goddesses whom we have mentioned Corê, we are told, received as her portion the meadows round about Enna; but a great fountain was made sacred to her in the territory of Syracuse and given the name Cyanê or “Azure Fount.”
+
+[5.4.2] For the myth relates that it was near Syracuse that Pluton effected the Rape of Corê and took her away in his chariot, and that after cleaving the earth asunder he himself descended into Hades, taking along with him the bride whom he had seized, and that he caused the fountain named Cyanê to gush forth, near which the Syracusans each year hold a notable festive gathering; and private individuals offer the lesser victims, but when the ceremony is on behalf of the community, bulls are plunged in the pool, this manner of sacrifice having been commanded by Heracles on the occasion when he made the circuit of all Sicily, while driving off the cattle of Geryones.13
+
+[5.4.3] After the Rape of Corê, the myth goes on to recount, Demeter, being unable to find her daughter, kindled torches in the craters of Mt. Aetna and visited many parts of the inhabited world, and upon the men who received her with the greatest favour she conferred benefactions, rewarding them with the gift of the fruit of the wheat.
+
+[5.4.4] And since a more kindly welcome was extended the goddess by the Athenians than by any other people, they were the first after the Siceliotae14 to be given the fruit of the wheat; and in return for this gift the citizens of that city in assembly honoured the goddess above all others with the establishment both of most notable sacrifices and of the mysteries of Eleusis, which, by reason of their very great antiquity and sanctity, have come to be famous among all mankind. From the Athenians many peoples received a portion of the gracious gift of the corn, and they in turn, sharing the gift of the seed with their neighbours, in this way caused all the inhabited world to abound with it.
+
+[5.4.5] And the inhabitants of Sicily, since by reason of the intimate relationship of Demeter and Corê with them they were the first to share in the corn after its discovery, instituted to each one of the goddesses sacrifices and festive gatherings, which they named after them, and by the time chosen for these made acknowledgment of the gifts which had been conferred upon them.
+
+[5.4.6] In the case of Corê, for instance, they established the celebration of her return at about the time when the fruit of the corn was found to come to maturity, and they celebrate this sacrifice and festive gathering with such strictness of observance and such zeal as we should reasonably expect those men to show who are returning thanks for having been selected before all mankind for the greatest possible gift;
+
+[5.4.7] but in the case of Demeter, they preferred that time for the sacrifice when the sowing of the corn is first begun, and for a period of ten days they hold a festive gathering which bears the name of this goddess and is most magnificent by reason of the brilliance of their preparation for it, while in the observance of it they imitate the ancient manner of life. And it is their custom during these days to indulge in coarse language as they associate one with another, the reason being that by such coarseness the goddess, grieved though she was at the Rape of Corê, burst into laughter.
+
+[5.5.1] That the Rape of Corê took place in the manner we have described is attested by many ancient historians and poets. Carcinus15 the tragic poet, for instance, who often visited in Syracuse and witnessed the zeal which the inhabitants displayed in the sacrifices and festive gatherings for both Demeter and Corê, ahs the following verses16 in his writings:
+
+Demeter’s daughter, her whom none may name, by secret schemings Pluton, men say, stole, and then he dropped into earth’s depths, whose light is darkness. Longing for the vanished girl her mother searched and visited all lands in turn. And Sicily’s land by Aetna’s crags was filled with streams of fire which no man could approach, and groaned throughout its length; in grief over the maiden now the folk, beloved of Zeus, was perishing without the corn. Hence honour they these goddesses e’en now.
+
+[5.5.2] But we should not omit to mention the very great benefaction which Demeter conferred upon mankind; for beside the fact that she was the discoverer of corn, she also taught mankind how to prepare it for food and introduced laws by obedience to which men became accustomed to the practice of justice, this being the reason we are told, why she has been given the epithet Thesmophoros, or Lawgiver.17
+
+[5.5.3] Surely a benefaction greater than these discoveries of hers one could not find; for they embrace both living and living honourably. However, as for the myths which are current among the Siceliotae, we shall be satisfied with what has been said.
+
+```
+
+---
