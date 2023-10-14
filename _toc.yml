@@ -1,2 +1,12 @@
 format: jb-book
 root: preface
+  - caption: Artemis
+    chapters:
+      - file: artemis
+      - file: artemis-and-actaeon
+      - file: artemis-and-orion
+      - file: artemis-and-tiresias
+  - caption: Wrath of Hera
+    chapters:
+      - file: hera-wrath-zeus
+      - hera-and-leto

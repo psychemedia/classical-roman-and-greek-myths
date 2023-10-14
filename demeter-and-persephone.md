@@ -1,40 +1,15 @@
-
 # Demeter and Persephone
 
-*I think I want to tell this as a Demeter story.*
+I quite like the Homeric *Hymn to Demeter* as a way of telling this tale (see the reworking of this poem in the next chapter)
 
-Demeter and Persephone
+```{admonition} Homeric *Hymn to Demeter*, transl. Evelyn-White, 1914
+:class: dropdown
 
-Homeric hymn to Demeter
-https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/
-
-https://sacred-texts.com/cla/demeter.htm
-
-https://uh.edu/~cldue/texts/demeter.html
-
-See also Artemis / Diana's relationship with Persephone, presence when the abduction occurred: https://www.theoi.com/Olympios/ArtemisMyths.html
-
-? book 5 ovid's metamorphoses
-
-Cyane as trying to prevent the kidnap.
-
-Triptolemus and Demophon
-https://www.greekmythology.com/Myths/Mortals/Triptolemus/triptolemus.html
-
-Minthe - mistress of Hades; in some accounts, Persephone turns her into the mint plant; in others, it is Demetewr who trampls on her and turns her into the plant. https://en.wikipedia.org/wiki/Minthe Also https://www.theoi.com/Olympios/DemeterWrath.html#Minthe and  
-
-https://www.csun.edu/~hcfll004/demeter1.html
-
-https://hellenism.net/greece/greek-mythology/greek-myths/triptolemus/
-
-
----
 https://sacred-texts.com/cla/demeter.htm
 HYMN TO DEMETER
 Translated by Hugh G.Evelyn-White
 published 1914, Loeb Classical Library
 
-TH: plan is for me to rewrite each paragraph; then see if we can get a story out.
 
 I begin to sing of rich-haired Demeter, awful goddess -- of her and her trim-ankled daughter whom Aidoneus [Hades] rapt away, given to him by all-seeing Zeus the loud-thunderer. Apart from Demeter, lady of the golden sword and glorious fruits, she was playing with the deep-bosomed daughters of Oceanus and gathering flowers over a soft meadow, roses and crocuses and beautiful violets, irises also and hyacinths and the narcissus which Earth made to grow at the will of Zeus and to please the Host of Many, to be a snare for the bloom-like girl -- a marvellous, radiant flower. It was a thing of awe whether for deathless gods or mortal men to see: from its root grew a hundred blooms and it smelled most sweetly, so that all wide heaven above and the whole earth and the sea's salt swell laughed for joy. And the girl was amazed and reached out with both hands to take the lovely toy; but the wide-pathed earth yawned there in the plain of Nysa, and the lord, Host of Many, with his immortal horses sprang out upon her -- the Son of Cronos, He who has many names.[1]
 
@@ -117,3 +92,331 @@ So spake Rhea. And rich-crowned Demeter did not refuse but straightway made frui
 [Line 483] But when the bright goddess had taught them all, they went to Olympus to the gathering of the other gods. And there they dwell beside Zeus who delights in thunder, awful and reverend goddesses. Right blessed is he among men on earth whom they freely love: soon they do send Plutus as guest to his great house, Plutus who gives wealth to mortal men.
 
 And now, queen of the land of sweet Eleusis and sea-girt Paros and rocky Antron, lady, giver of good gifts, bringer of seasons, queen Deo, be gracious, you and your daughter all beauteous Persephone, and for my song grant me heart-cheering substance. And now I will remember you and another song also.
+```
+
+
+Ovid Metamorphoses
+https://classics.mit.edu/Ovid/metam.mb.txt
+ee bottom for copyright. Available online at
+    http://classics.mit.edu//Ovid/metam.html
+
+```{admonition} Ovid, "The Rape of Proserpine", *Metamorphoses*
+:class: dropdown
+
+Metamorphoses
+By Ovid
+https://archive.org/details/bim_eighteenth-century_ovids-metamorphoses-in-_ovid_1717/page/163/mode/2up
+Ovid's Metamorphoses in fifteen books. Translated by the most eminent hands. Adorn'd with sculptures.  1717
+by Ovid
+
+Publication date 1717
+
+Book V  
+p160-
+
+Translated by Sir Samuel Garth, John Dryden, et al
+
+The Rape of Proserpine
+
+Near Enna's walls a spacious lake is spread,  
+Fam'd for the sweetly-singing swans it bred;  
+Pergusa is its name: and never more  
+Were heard, or sweeter on Cayster's shore.  
+Woods crown the lake; and Phoebus ne'er invades  
+The tufted fences, or offends the shades:  
+Fresh fragrant breezes fan the verdant bow'rs,  
+And the moist ground smiles with enamel'd flow'rs  
+The chearful birds their airy carols sing,  
+And the whole year is one eternal spring.
+
+Here, while young Proserpine, among the maids,  
+Diverts herself in these delicious shades;  
+While like a child with busy speed and care  
+She gathers lillies here, and vi'lets there;  
+While first to fill her little lap she strives,  
+Hell's grizly monarch at the shade arrives;  
+Sees her thus sporting on the flow'ry green,  
+And loves the blooming maid, as soon as seen.  
+His urgent flame impatient of delay,  
+Swift as his thought he seiz'd the beauteous prey,  
+And bore her in his sooty carr away.  
+The frighted Goddess to her mother cries,  
+But all in vain, for now far off she flies;  
+Far she behind her leaves her virgin train;  
+To them too cries, and cries to them in vain,  
+And, while with passion she repeats her call,  
+The vi'lets from her lap, and lillies fall:  
+She misses 'em, poor heart! and makes new moan;  
+Her lillies, ah! are lost, her vi'lets gone.
+
+O'er hills, the ravisher, and vallies speeds,  
+By name encouraging his foamy steeds;  
+He rattles o'er their necks the rusty reins,  
+And ruffles with the stroke their shaggy manes.  
+O'er lakes he whirls his flying wheels, and comes  
+To the Palici breathing sulph'rous fumes.  
+And thence to where the Bacchiads of renown  
+Between unequal havens built their town;  
+Where Arethusa, round th' imprison'd sea,  
+Extends her crooked coast to Cyane;  
+The nymph who gave the neighb'ring lake a name,  
+Of all Sicilian nymphs the first in fame,  
+She from the waves advanc'd her beauteous head,  
+The Goddess knew, and thus to Pluto said:  
+Farther thou shalt not with the virgin run;  
+Ceres unwilling, canst thou be her son?  
+The maid shou'd be by sweet perswasion won.  
+Force suits not with the softness of the fair;  
+For, if great things with small I may compare,  
+Me Anapis once lov'd; a milder course  
+He took, and won me by his words, not force.
+
+Then, stretching out her arms, she stopt his way;  
+But he, impatient of the shortest stay,  
+Throws to his dreadful steeds the slacken'd rein,  
+And strikes his iron sceptre thro' the main;  
+The depths profound thro' yielding waves he cleaves,  
+And to Hell's center a free passage leaves;  
+Down sinks his chariot, and his realms of night  
+The God soon reaches with a rapid flight.
+
+Cyane dissolves to a Fountain
+
+But still does Cyane the rape bemoan,  
+And with the Goddess' wrongs laments her own;  
+For the stoln maid, and for her injur'd spring,  
+Time to her trouble no relief can bring.  
+In her sad heart a heavy load she bears,  
+'Till the dumb sorrow turns her all to tears.  
+Her mingling waters with that fountain pass,  
+Of which she late immortal Goddess was;  
+Her varied members to a fluid melt,  
+A pliant softness in her bones is felt;  
+Her wavy locks first drop away in dew,  
+And liquid next her slender fingers grew.  
+The body's change soon seizes its extreme,  
+Her legs dissolve, and feet flow off in stream.  
+Her arms, her back, her shoulders, and her side,  
+Her swelling breasts in little currents glide,  
+A silver liquor only now remains  
+Within the channel of her purple veins;  
+Nothing to fill love's grasp; her husband chaste  
+Bathes in that bosom he before embrac'd.
+
+A Boy transform'd to an Eft
+
+Thus, while thro' all the Earth, and all the main,  
+Her daughter mournful Ceres sought in vain;  
+Aurora, when with dewy looks she rose,  
+Nor burnish'd Vesper found her in repose,  
+At Aetna's flaming mouth two pitchy pines  
+To light her in her search at length she tines.  
+Restless, with these, thro' frosty night she goes,  
+Nor fears the cutting winds, nor heeds the snows;  
+And, when the morning-star the day renews,  
+From east to west her absent child pursues.
+
+Thirsty at last by long fatigue she grows,  
+But meets no spring, no riv'let near her flows.  
+Then looking round, a lowly cottage spies,  
+Smoaking among the trees, and thither hies.  
+The Goddess knocking at the little door,  
+'Twas open'd by a woman old and poor,  
+Who, when she begg'd for water, gave her ale  
+Brew'd long, but well preserv'd from being stale.  
+The Goddess drank; a chuffy lad was by,  
+Who saw the liquor with a grutching eye,  
+And grinning cries, She's greedy more than dry.
+
+Ceres, offended at his foul grimace,  
+Flung what she had not drunk into his face,  
+The sprinklings speckle where they hit the skin,  
+And a long tail does from his body spin;  
+His arms are turn'd to legs, and lest his size  
+Shou'd make him mischievous, and he might rise  
+Against mankind, diminutives his frame,  
+Less than a lizzard, but in shape the same.  
+Amaz'd the dame the wondrous sight beheld,  
+And weeps, and fain wou'd touch her quondam child.  
+Yet her approach th' affrighted vermin shuns,  
+And fast into the greatest crevice runs.  
+A name they gave him, which the spots exprest,  
+That rose like stars, and varied all his breast.
+
+What lands, what seas the Goddess wander'd o'er,  
+Were long to tell; for there remain'd no more.  
+Searching all round, her fruitless toil she mourns,  
+And with regret to Sicily returns.  
+At length, where Cyane now flows, she came,  
+Who cou'd have told her, were she still the same  
+As when she saw her daughter sink to Hell;  
+But what she knows she wants a tongue to tell.  
+Yet this plain signal manifestly gave,  
+The virgin's girdle floating on a wave,  
+As late she dropt it from her slender waste,  
+When with her uncle thro' the deep she past.  
+Ceres the token by her grief confest,  
+And tore her golden hair, and beat her breast.  
+She knows not on what land her curse shou'd fall,  
+But, as ingrate, alike upbraids them all,  
+Unworthy of her gifts; Trinacria most,  
+Where the last steps she found of what she lost.  
+The plough for this the vengeful Goddess broke,  
+And with one death the ox, and owner struck,  
+In vain the fallow fields the peasant tills,  
+The seed, corrupted ere 'tis sown, she kills.  
+The fruitful soil, that once such harvests bore,  
+Now mocks the farmer's care, and teems no more.  
+And the rich grain which fills the furrow'd glade,  
+Rots in the seed, or shrivels in the blade;  
+Or too much sun burns up, or too much rain  
+Drowns, or black blights destroy the blasted plain;  
+Or greedy birds the new-sown seed devour,  
+Or darnel, thistles, and a crop impure  
+Of knotted grass along the acres stand,  
+And spread their thriving roots thro' all the land.
+
+Then from the waves soft Arethusa rears  
+Her head, and back she flings her dropping hairs.  
+O mother of the maid, whom thou so far  
+Hast sought, of whom thou canst no tidings hear;  
+O thou, she cry'd, who art to life a friend,  
+Cease here thy search, and let thy labour end.  
+Thy faithful Sicily's a guiltless clime,  
+And shou'd not suffer for another's crime;  
+She neither knew, nor cou'd prevent the deed;  
+Nor think that for my country thus I plead;  
+My country's Pisa, I'm an alien here,  
+Yet these abodes to Elis I prefer,  
+No clime to me so sweet, no place so dear.  
+These springs I Arethusa now possess,  
+And this my seat, o gracious Goddess, bless:  
+This island why I love, and why I crost  
+Such spacious seas to reach Ortygia's coast,  
+To you I shall impart, when, void of care,  
+Your heart's at ease, and you're more fit to hear;  
+When on your brow no pressing sorrow sits,  
+For gay content alone such tales admits.  
+When thro' Earth's caverns I a-while have roul'd  
+My waves, I rise, and here again behold  
+The long-lost stars; and, as I late did glide  
+Near Styx, Proserpina there I espy'd.  
+Fear still with grief might in her face be seen;  
+She still her rape laments; yet, made a queen,  
+Beneath those gloomy shades her sceptre sways,  
+And ev'n th' infernal king her will obeys.
+
+This heard, the Goddess like a statue stood,  
+Stupid with grief; and in that musing mood  
+Continu'd long; new cares a-while supprest  
+The reigning of her immortal breast.  
+At last to Jove her daughter's sire she flies,  
+And with her chariot cuts the chrystal skies;  
+She comes in clouds, and with dishevel'd hair,  
+Standing before his throne, prefers her pray'r.
+
+King of the Gods, defend my blood and thine,  
+And use it not the worse for being mine.  
+If I no more am gracious in thy sight,  
+Be just, o Jove, and do thy daughter right.  
+In vain I sought her the wide world around,  
+And, when I most despair'd to find her, found.  
+But how can I the fatal finding boast,  
+By which I know she is for ever lost?  
+Without her father's aid, what other Pow'r  
+Can to my arms the ravish'd maid restore?  
+Let him restore her, I'll the crime forgive;  
+My child, tho' ravish'd, I'd with joy receive.  
+Pity, your daughter with a thief shou'd wed,  
+Tho' mine, you think, deserves no better bed.
+
+Jove thus replies: It equally belongs  
+To both, to guard our common pledge from wrongs.  
+But if to things we proper names apply,  
+This hardly can be call'd an injury.  
+The theft is love; nor need we blush to own  
+The thief, if I can judge, to be our son.  
+Had you of his desert no other proof,  
+To be Jove's brother is methinks enough.  
+Nor was my throne by worth superior got,  
+Heav'n fell to me, as Hell to him, by lot:  
+If you are still resolv'd her loss to mourn,  
+And nothing less will serve than her return;  
+Upon these terms she may again be yours  
+(Th' irrevocable terms of fate, not ours),  
+Of Stygian food if she did never taste,  
+Hell's bounds may then, and only then, be past.
+
+The Transformation of Ascalaphus into an Owl
+
+The Goddess now, resolving to succeed,  
+Down to the gloomy shades descends with speed;  
+But adverse fate had otherwise decreed.  
+For, long before, her giddy thoughtless child  
+Had broke her fast, and all her projects spoil'd.  
+As in the garden's shady walk she stray'd,  
+A fair pomegranate charm'd the simple maid,  
+Hung in her way, and tempting her to taste,  
+She pluck'd the fruit, and took a short repast.  
+Seven times, a seed at once, she eat the food;  
+The fact Ascalaphus had only view'd;  
+Whom Acheron begot in Stygian shades  
+On Orphne, fam'd among Avernal maids;  
+He saw what past, and by discov'ring all,  
+Detain'd the ravish'd nymph in cruel thrall.
+
+But now a queen, she with resentment heard,  
+And chang'd the vile informer to a bird.  
+In Phlegeton's black stream her hand she dips,  
+Sprinkles his head, and wets his babling lips.  
+Soon on his face, bedropt with magick dew,  
+A change appear'd, and gawdy feathers grew.  
+A crooked beak the place of nose supplies,  
+Rounder his head, and larger are his eyes.  
+His arms and body waste, but are supply'd  
+With yellow pinions flagging on each side.  
+His nails grow crooked, and are turn'd to claws,  
+And lazily along his heavy wings he draws.  
+Ill-omen'd in his form, the unlucky fowl,  
+Abhorr'd by men, and call'd a scrieching owl.
+
+The Daughters of Achelous transform'd to Sirens
+
+Justly this punishment was due to him,  
+And less had been too little for his crime;  
+But, o ye nymphs that from the flood descend,  
+What fault of yours the Gods cou'd so offend,  
+With wings and claws your beauteous forms to spoil,  
+Yet save your maiden face, and winning smile?  
+Were you not with her in Pergusa's bow'rs,  
+When Proserpine went forth to gather flow'rs?  
+Since Pluto in his carr the Goddess caught,  
+Have you not for her in each climate sought?  
+And when on land you long had search'd in vain,  
+You wish'd for wings to cross the pathless main;  
+That Earth and Sea might witness to your care:  
+The Gods were easy, and return'd your pray'r;  
+With golden wing o'er foamy waves you fled,  
+And to the sun your plumy glories spread.  
+But, lest the soft enchantment of your songs,  
+And the sweet musick of your flat'ring tongues  
+Shou'd quite be lost (as courteous fates ordain),  
+Your voice and virgin beauty still remain.
+
+Jove some amends for Ceres lost to make,  
+Yet willing Pluto shou'd the joy partake,  
+Gives 'em of Proserpine an equal share,  
+Who, claim'd by both, with both divides the year.  
+The Goddess now in either empire sways,  
+Six moons in Hell, and six with Ceres stays.  
+Her peevish temper's chang'd; that sullen mind,  
+Which made ev'n Hell uneasy, now is kind,  
+Her voice refines, her mein more sweet appears,  
+Her forehead free from frowns, her eyes from tears,  
+As when, with golden light, the conqu'ring day  
+Thro' dusky exhalations clears a way.  
+Ceres her daughter's rape no longer mourn'd,  
+But back to Arethusa's spring return'd;  
+And sitting on the margin, bid her tell  
+From whence she came, and why a sacred well.
+```

@@ -49,7 +49,7 @@ Doso turned, surprised. She glared at Metanira, took that boy, that boy who had 
 
 "What have *I* done? What have *you* done?"
 
-And as Metanira watched, Doso, the old woman, transformed before her very eyes: the years of age fell from her face, and she glowed as if with some divine light. 
+And as Metanira watched, Doso, the old woman, transformed before her very eyes: the years of age fell from her face, and she glowed as if with some divine light.
 
 "Don't you realise? Can't you see? I would have made your son deathless. But now? Now? Now, there is no way he will avoid the death that is suffered by every child born of man. And though he will be honoured, strife and war will plague the sons of Eleusis ever more."
 
