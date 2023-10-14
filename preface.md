@@ -12,4 +12,4 @@ So as a way in to classical mythology, I am going to try three approaches:
 
 As ever, where possible, I'm going to try to draw on out-of-copyright source material, which means you can freely take the content and do with it what you will, and I can try to find stories as they might have been told a hundred or more years ago.
 
---Tony "Monty" Hirst, Isle of Wight, July 2023
+— Tony "Monty" Hirst, Isle of Wight, July 2023
