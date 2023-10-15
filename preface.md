@@ -8,8 +8,8 @@ So as a way in to classical mythology, I am going to try three approaches:
 
 - stories around "names" that can hook into other tales outside of classical mythology; so for example, the sinking of HMS Eurydice has a natural bridge to Orpheus and Eurydice;
 - "but that's another story": so for example, when Orpheus goes to the underworld and sees Hades and Persephone, that provides a hook in to Demeter and Persephone;
-- many tales told around a particular character: for example, a whole collection of tales based around Hera that tell of the various ways in which she exacts revenge against the women that her husband Zeus seduces. I think that Artemis may also be a good focus for a whole range of "revenge" tales.
+- many tales told around a particular character: for example, a whole collection of tales based around Hera that tell of the various ways in which she exacts revenge against the women that her husband Zeus seduces. I think that Artemis may also be a good focus for a range of "revenge" tales.
 
 As ever, where possible, I'm going to try to draw on out-of-copyright source material, which means you can freely take the content and do with it what you will, and I can try to find stories as they might have been told a hundred or more years ago.
 
-— Tony "Monty" Hirst, Isle of Wight, July 2023
+— Tony "Monty" Hirst, Isle of Wight, July-, 2023
