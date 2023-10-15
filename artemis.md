@@ -1,17 +1,6 @@
 # Artemis
 
-- birth https://www.theoi.com/Olympios/ArtemisMyths.html#Birth
-- and Actaeon
-- and Orion https://www.theoi.com/Olympios/ArtemisFavour.html#Orion
-
-https://www.theoi.com/Olympios/Artemis.html
-https://en.wikipedia.org/wiki/Artemis
-
-Artemis traditionally requested several gifts from her father, Zeus:
-
-- TO DO
-
-A description of her solicatations are described by Callimachus:
+Zeus' favourite daughter, she wraps him round her little finger and makes many demands of him:
 
 ```{admonition} Gifts from Zeus, Callimachus
 
@@ -24,5 +13,3 @@ Artemis we hymn—no light thing is it for singers to forget her—whose study i
 ...
 
 ```
-
-``Leto. .

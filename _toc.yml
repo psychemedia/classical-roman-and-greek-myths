@@ -7,4 +7,5 @@ parts:
   - file: demeter-persephone-homeric-hymn
 - caption: Artemis
   chapters:
+  - file: artemis
   - file: artemis-and-actaeon
