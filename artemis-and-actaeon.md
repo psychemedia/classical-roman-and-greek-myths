@@ -2,6 +2,10 @@
 
 A fabulous tale — with a potential for graphical violence ins some tellings! — that shows something of the character of Artemis, goddess of the hunt, childbirth, and chastity, and daughter of Zeus and Leto (about whom there is another tale to tell...).
 
+The gist of the tale is this:
+
+> Actaeon is out hunting with his pack of dogs when he stumbles across a well where Artemis is bathing with her nymphs; Actaeon sees Artemis — and she sees him, at which point Actaeon is cast into the form of a deer so that he may never speak of what he has seen. But Actaeon is now also prey, and is torn apart by his own pack of hunting dogs.
+
 Ovid, in the third fable of the third book of *Metamorphoses*, describes the tale thus:
 
 ```{admonition}
@@ -30,17 +34,6 @@ But his companions, in their ignorance, urge on the eager pack with their usual 
 > Cicero mentions several Goddesses of the name of Diana. The first was the daughter of Jupiter and Proserpine; the second of Jupiter and Latona; and the third of Upis and Glauce. Strabo mentions another Diana, named Britomartis, the daughter of Eubalus. The worship, however, of Diana as the Goddess of the Moon, was, most probably, derived from Egypt, with the Isis of whom she is perhaps identical. The adventure narrated in this Fable is most probably to be attributed to Diana Britomartis, as Strabo tells us, that she was particularly fond of the chase. Pausanias, in his Attica, tells the story in much the same terms, but he adds, that on seeing Diana bathing, the novelty of the sight excited Actæon's curiosity, and prompted him to approach nearer. To explain this fable, some authors suggest, that Actæon's dogs becoming mad, devoured him; while others suppose, that having ruined himself by the expense of supporting a large pack of hounds, and a hunting establishment, it was reported that he had been devoured by his dogs. Diodorus Siculus, and Euripides, tell us, that Actæon showed contempt to Diana, and was about to eat of the sacrifice that had been offered to her; and of course, in such a case, punishment at the hands of the Goddess would be deemed a just retribution. Apollodorus says, that Actæon was brought up by Chiron, and that he was put to death on Mount Cithæron, for having seen Diana bathing; though, according to one ancient authority, he was punished for having made improper overtures to Semele. Apollodorus also says, that his dogs died of grief, on the loss of their master, and he has preserved some of their names.
 
 ```
-
-TO DO: see also https://www.perseus.tufts.edu/hopper/searchresults?q=actaeon
-
-https://thetempleofnature.org/_dox/artemis-and-actaeon-metamorphoses-of-myth.pdf
-Diana and Actaeon: Metamorphoses of a Myth
-Author(s): Carl C. Schlam
-Source: Classical Antiquity, Vol. 3, No. 1 (Apr., 1984), pp. 82-110
-
-https://ancient-literature.com/artemis-and-actaeon/
-
----
 
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0160:book=1:chapter=44&highlight=actaeon
 
@@ -82,7 +75,8 @@ To be a remedy for grievous pains to men. ]
 unknown
 
 
----
+```{admonition} Nonnun, Dionysiaca, Vol. I, Book
+:class: dropdown
 
 https://www.theoi.com/Text/NonnusDionysiaca5.html
 
@@ -127,6 +121,8 @@ pp. 189-207
 
 [533] So spoke in the dream the intelligent pricket, and without warning it was flown and gone. Autonoë's husband leapt up, and threw off the wing of this revealing sleep. He aroused his wife much disturbed, and described her boy's stronghorned animal form, and recounted the story which the intelligent fawn had told. Then there was more lamentation. The bride of Aristaios went on the search again, and passed often through the heart of the longbranching bush; sadly treading the difficult circuits of the rocky ways, she found with pains that fatal growth, she found even the quiver and bow beside a lonely trunk. With much trouble the mother gathered the fallen relics, bones scattered here and there over the strewn earth. She clasped the sweet horn with loving hand, and kissed the hairy lips of the bloodstained fawn. Wailing loudly the mother entombed the dead, and carved along the tomb all that the voice in a dream of the night had told Actaion's father.
 
+```
+
 ---
 
 Philologus 2019; 163(1): 177–183
@@ -134,3 +130,14 @@ Alessandro Schiesaro*
 Nonnus' Actaeon: Destiny in a Name
 DOI: https://www.degruyter.com/document/doi/10.1515/phil-2018-0030/html
 
+
+TO DO: see also https://www.perseus.tufts.edu/hopper/searchresults?q=actaeon
+
+https://thetempleofnature.org/_dox/artemis-and-actaeon-metamorphoses-of-myth.pdf
+Diana and Actaeon: Metamorphoses of a Myth
+Author(s): Carl C. Schlam
+Source: Classical Antiquity, Vol. 3, No. 1 (Apr., 1984), pp. 82-110
+
+https://ancient-literature.com/artemis-and-actaeon/
+
+---
