@@ -1,6 +1,12 @@
 # Demeter and Persephone
 
-One of my favourite classical tales, that explains the two halves of the year by way of the descent to the underworld by Persephone for the winter months, and her return to the upper world for the remaining months. In terms of tellings, I quite like the Homeric *Hymn to Demeter* (see the reworking of this poem in the next chapter)
+One of my favourite classical tales, that explains the two halves of the year by way of the descent to the underworld by Persephone for the winter months, and her return to the upper world for the remaining months.
+
+The gist of the tale:
+
+> Hades falls for the virginal Persephone, and makes a plan with Zeus to take her to the underworld. Demeter is distraught at the loss of her daughter, and scours the world for her. Eventually she hears tell that Persephone is in the land of Hades. A deal is struck to return Persephone, as long as she hasnlt eaten anyting. But she has, and as a result must spend part of the year in the underworld, that time we now know as Winter. When she wals the Earth with her mother, it is spring and summer.
+
+In terms of tellings, I quite like the Homeric *Hymn to Demeter* (see the reworking of this poem in the next chapter):
 
 ```{admonition} Homeric *Hymn to Demeter*, transl. Evelyn-White, 1914
 :class: dropdown
