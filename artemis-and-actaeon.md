@@ -4,7 +4,7 @@ A fabulous tale — with a potential for graphical violence in some tellings! �
 
 The gist of the tale is this:
 
-> Actaeon is out hunting with his pack of dogs when he stumbles across a well where Artemis is bathing with her nymphs; Actaeon sees Artemis — and she sees him, at which point Actaeon is cast into the form of a deer so that he may never speak of what he has seen. But Actaeon is now also prey, and is torn apart by his own pack of hunting dogs.
+> Actaeon is out hunting with his pack of dogs when he stumbles across a grotto where Artemis is bathing with her nymphs; Actaeon sees Artemis — and she sees him, at which point Actaeon is cast into the form of a deer so that he may never speak of what he has seen. But Actaeon is now also prey, and is torn apart by his own pack of hunting dogs.
 
 Ovid, in the third fable of the third book of *Metamorphoses*, describes the tale thus:
 
@@ -58,7 +58,6 @@ ARISTAEUS ON CEOS
 [4.82.1] As for Aristaeus, after the death of Acteon, we are told, he went to the oracle of his father, Apollo, who prophesied to him that he was to change his home to the island of Ceos and told him likewise of the honours which would be his among the Ceans.
 
 ```
-
 
 ```{admonition} In Apollodorus, *The Library*, trasnl. JG Frazer, 1921
 :class: dropdown
