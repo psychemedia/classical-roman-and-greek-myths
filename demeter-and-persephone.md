@@ -489,7 +489,7 @@ From whence she came, and why a sacred well.
 
 Diodorus Siculus' retelling of the tale, given in two separate translations below, suggests that Persephone was out picking flowers with Athena and Artemis at the time of her abduction. There is also an interesting line about Demeter (Ceres) lighting a torch from the fires of Aetna as she searched for her daughter.
 
-```{admonition} Diodorus Siculus, *The Rape of Core*
+```{admonition} Diodorus Siculus, *The Rape of Core*, transl. Odlfather, 1931
 :class: dropdown
 
 In Diodorus Siculus, *Library of History*,  [book V. 1 - 8](https://archive.org/details/in.gov.ignca.2912/page/98/mode/2up), transl. C. H. Oldfather, 1933, (also [here](https://www.theoi.com/Text/DiodorusSiculus5A.html)):
@@ -545,10 +545,10 @@ Demeter’s daughter, her whom none may name, by secret schemings Pluton, men sa
 
 ```
 
-```{admonition}
+```{admonition}  Diodorus Siculus, * Ceres and Proserpina*, transl. Gent, 1653
 :class: dropdown
 
-In *The history of Diodorus siculus, containing all that is most memorable and of greatest antiquity in the first ages of the world, until the war of Troy*, Henry Gent, 1653, Book VI, p226-228](https://archive.org/details/bib_fict_4102574/page/226/mode/2):
+In *The history of Diodorus Siculus, containing all that is most memorable and of greatest antiquity in the first ages of the world, until the war of Troy*, Henry Gent, 1653, Book VI, p226-228](https://archive.org/details/bib_fict_4102574/page/226/mode/2):
 
 
 Chap. II of Ceres and Proserpina, and the invention of Corne.
