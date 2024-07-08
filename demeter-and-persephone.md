@@ -6,6 +6,14 @@ The gist of the tale:
 
 > Hades falls for the virginal Persephone, and makes a plan with Zeus to take her to the underworld. Demeter is distraught at the loss of her daughter, and scours the world for her. Eventually she hears tell that Persephone is in the land of Hades. A deal is struck to return Persephone, as long as she hasnlt eaten anyting. But she has, and as a result must spend part of the year in the underworld, that time we now know as Winter. When she wals the Earth with her mother, it is spring and summer.
 
+```{seealso}
+Hades also has form. For example, see Pan (Hades) and Syrinx, at the end of Ovid's *Metamorphoses: Book 1*.
+```
+
+```{seealso}
+Something I've started to wonder as a subtext for the telling: Persephone as a junkie, and Hades as the one who has got her hooked... Or Hades as a controlling partner.
+```
+
 In terms of tellings, I quite like the Homeric *Hymn to Demeter* (see the reworking of this poem in the next chapter):
 
 ```{admonition} Homeric *Hymn to Demeter*, transl. Evelyn-White, 1914
@@ -567,3 +575,27 @@ In *Oppian*,  HALIEUTICA, III. 482-501, transl. by A.W. Mair, 1928, [p387](https
 Therewith they knead also the sweet-smelling herb of mint. Mint, men say, was once a maid `[ Strabo 344]` beneath the earth, a Nymph of Cocytus, and she lay in the bed of Aidoneus `[TH: that is, Hades]`; but when he raped the maid - Persephone from the Aetnaean hill, then she complained loudly with overweening words and raved foolishly for jealousy, and Demeter in anger trampled upon her with her feet and destroyed her. For she had said that she was nobler of form and more excellent in beauty than dark-eyed Persephone and she boasted that Aidoneus would return to her and banish the other from his halls: such infatuation leapt upon her tongue. And from the earth sprang the weak herb that bears her name.
 
 ```
+
+
+Demeter and Persephone
+
+https://www.theoi.com/Olympios/Demeter.html
+
+Homeric hymn to Demeter https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/
+
+https://sacred-texts.com/cla/demeter.htm
+
+https://uh.edu/~cldue/texts/demeter.html
+
+
+
+Triptolemus and Demophon https://www.greekmythology.com/Myths/Mortals/Triptolemus/triptolemus.html
+
+
+https://www.csun.edu/~hcfll004/demeter1.html
+
+https://hellenism.net/greece/greek-mythology/greek-myths/triptolemus/
+
+https://www.theoi.com/Khthonios/HaidesPersephone2.html
+
+https://www.theoi.com/Text/ClaudianProserpine.html CLAUDIAN, RAPE OF PROSERPINE
