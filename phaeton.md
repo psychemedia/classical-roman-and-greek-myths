@@ -417,7 +417,7 @@ And near the Earth the burning Chariot drew.
 The Clouds diſperſe in Fumes, the wond'ring Moon  
 Beholds her Brother's Steeds beneath her own;  
 The Highlands ſmoak, cleft by the piercing Rays,  
-Or, clad with Woods, in their own Fewel blaze.
+Or, clad with Woods, in their own Fewel blaze.  
 Next o'er the Plains, where ripen'd Harveſts grow,  
 The running Conflagration ſpreads Below.  
 But theſe are trivial Ills: whole Cities burn,  
@@ -482,10 +482,10 @@ Nor Liber, of his promis'd Empire vain.
 
 The Ground, deep-cleft, admits the dazling Ray,  
 And ſtartles Plato with the Flaſh of Day.  
-The Seas ſhrink in, and to the Sight diſcloſe
+The Seas ſhrink in, and to the Sight diſcloſe  
 Wide naked Plains, where once their Billows roſe;  
-Their Rocks are all diſcover'd, and increaſe
-The Number of the ſcatter'd Cyclades.
+Their Rocks are all diſcover'd, and increaſe  
+The Number of the ſcatter'd Cyclades.  
 The Fiſh in Sholes about the Bottom creep,  
 Nor longer dares the crooked Dolphin leap:  
 Gaſping for Breath, th unſhapen Phocae die,  
@@ -531,7 +531,7 @@ Sunk deeper down, and ſought a cooler Seat:)
 "If Heav'n, and Earth, and Sea, together burn,  
 "All muſt again into their Chaos turn.  
 "Apply ſome ſpeedy Cure, prevent our Fate,  
-And ſuccour Nature, e'er it be too late.
+And ſuccour Nature, e'er it be too late.  
 She ceas'd, for choak'd with Vapours round her ſpread,  
 Down to the deepeſt Shades ſhe ſunk her Head.
 
@@ -568,7 +568,7 @@ p49-51
 PHAETON'S *Sisters transfomr'd into Trees.*
 
 The Latian Nymphs came round him, and amaz'd  
-On the dead Youth, transfix'd with Thunder, gaz'd;
+On the dead Youth, transfix'd with Thunder, gaz'd;  
 And, whilſt yet ſmoaking from the Bolt he lay,  
 His ſhatter'd Body to a Tomb convey,  
 And o'er the Tomb an Epitaph deviſe:  
@@ -588,7 +588,7 @@ This Comfort from the mighty Miſchief roſe.
 But Chment, enrag'd with Grief, laments,  
 And as her Grief inſpires, her Paſſion vents:  
 Wild for her Son, and frantick in her Woes,  
-With Hair diſhevel'd, round the World ſhe goes,
+With Hair diſhevel'd, round the World ſhe goes,  
 To ſeek where-er his Body might be caſt;  
 Till, on the Borders of the Po, at laſt  
 The Name inſcrib'd on the new Tomb appears.  
@@ -664,7 +664,7 @@ Mean-while Apollo in a gloomy Shade
 Indulging Sorrow, ſickens at the Sight  
 Of his own Sun-ſhine, and abhors the Light:  
 The hidden Griefs, that in his Boſom riſe,  
-Sadden his Looks, and over-caſt his Eyes,
+Sadden his Looks, and over-caſt his Eyes,  
 As when ſome dusky Orb obſtructs his Ray,  
 And ſullies, in a Dim Eclipſe, the Day.
 
