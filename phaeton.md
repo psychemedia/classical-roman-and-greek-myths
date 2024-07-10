@@ -79,7 +79,7 @@ Bulfinch's version is a reasonably close retelling of Ovid's *Metamorphoses*, in
 
 The set-up derives from Phaeton boasting of his immortal parentage to Epaphus, in a tale that also tells of Epaphus' mother, Io's, encounter with his immortal father, Zeus (Jupiter).
 
-```{admonition}
+```{admonition} In Ovid's *Metapmorphoses*, 1717
 :class: dropdown
 https://archive.org/details/bim_eighteenth-century_ovids-metamorphoses-in-_ovid_1717/page/n73/mode/1up?q=phaeton
 
