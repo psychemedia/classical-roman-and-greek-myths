@@ -5,6 +5,9 @@ parts:
   chapters:
   - file: demeter-and-persephone
   - file: demeter-persephone-homeric-hymn
+- caption: Tales To Tell
+  chapters:
+  - file: phaeton
 - caption: Artemis
   chapters:
   - file: artemis
