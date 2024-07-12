@@ -42,7 +42,7 @@ In Pausanias, *The Description of Greece*, Vol. III, 1794, [p4](https://archive.
 
 Book IX chapter II, page 4
 
-And this road leads from Eleutherae to Platsea. But as you proceed from Mcgarae, you will see on the right hand a fountain, and a little beyond this a stone, which they call the stone of Actaeon : for they say that Actaeon used to sleep on this, when he was weary with hunting ; and that in this place he saw Diana washing herself in the neighbouring fountain. But Stesichorus Himerseus writes, that Diana threw upon Actaeon a stag's hide, and thus caused him to be slain by his dogs, that he might not marry Semele. For my own part, I can easily believe that Actaeon might be torn to pieces by his dogs, without the interference of the goddess, in consequence of their ruising swiftly upon him, without perceiving who he was.
+And this road leads from Eleutherae to Platsea. But as you proceed from Mcgarae, you will see on the right hand a fountain, and a little beyond this a stone, which they call the stone of Actaeon: for they say that Actaeon used to sleep on this, when he was weary with hunting; and that in this place he saw Diana washing herself in the neighbouring fountain. But Stesichorus Himerseus writes, that Diana threw upon Actaeon a stag's hide, and thus caused him to be slain by his dogs, that he might not marry Semele. For my own part, I can easily believe that Actaeon might be torn to pieces by his dogs, without the interference of the goddess, in consequence of their ruising swiftly upon him, without perceiving who he was.
 
 https://www.theoi.com/Text/DiodorusSiculus4D.html#34
 Diodorus Siculus, Library of History , Book 4.59-85
@@ -155,4 +155,3 @@ https://ancient-literature.com/artemis-and-actaeon/
 ---
 
 See also: various versions https://www.theoi.com/Olympios/ArtemisWrath.html#Aktaion
-
