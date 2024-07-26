@@ -1,8 +1,13 @@
 # Phaeton
 
-I first heard this tale told in modern form, in the round, in a performace of [*Helios*](https://www.wrightandgrainger.com/helios), by  Wright and Granger, at Ventnor Exchange, in Spring 2024. When we picked the theme of "Elemental Tales" for our *'Tis Tales* show at Ventnor Fringe, 2024, it seemed like a good tale to tell in that context.
+I first heard this tale told in modern form, in the round, in a performance of [*Helios*](https://www.wrightandgrainger.com/helios), by  Wright and Granger, at Ventnor Exchange, in Spring 2024. When we picked the theme of "Elemental Tales" for our *'Tis Tales* show at Ventnor Fringe, 2024, it seemed to be an appropriate story to tell in that context.
 
-A version of the tale appears in narrative form in Bulfinch's *"Age of Fable, or, Stories of gods and heroes"* of 1855.
+The gist of the tale is as follows:
+
+> Phaethon, 
+
+
+A narrative version appears in Bulfinch's *"Age of Fable, or, Stories of gods and heroes"* of 1855.
 
 ```{admonition} Pronunciation note
 :class: warning
@@ -20,7 +25,7 @@ pp59-68
 
 PHAËTON.
 
-Phaëton was the son of Apollo and the nymph Clymene. One day a schoolfellow laughed at the idea of his being the son of the god, and Phaeton went in rage and shame and reported it to his mother. "If," said he, "I am indeed of heavenly birth, give me, mother, some proof of it, and establish my claim to the honor." Clymene strtetched forth her hands towards the skies, and said, "I call to witness the Sun which looks down upon us, that I have told you the truth. If I speak falsely, let this be the last time I behold his light. But it needs not much labor to go and inquire for yourself; the land whence the Sun rises lies next to ours. Go and demand of him whether he will own you as a son." Phaeton heard with delight. He travelled to India, which lies directly in the regions of sunrise; and, full of hope and pride, approached the goal whence his parent begins his course.
+Phaëton was the son of Apollo and the nymph Clymene. One day a schoolfellow laughed at the idea of his being the son of the god, and Phaeton went in rage and shame and reported it to his mother. "If," said he, "I am indeed of heavenly birth, give me, mother, some proof of it, and establish my claim to the honor." Clymene stretched forth her hands towards the skies, and said, "I call to witness the Sun which looks down upon us, that I have told you the truth. If I speak falsely, let this be the last time I behold his light. But it needs not much labor to go and inquire for yourself; the land whence the Sun rises lies next to ours. Go and demand of him whether he will own you as a son." Phaeton heard with delight. He travelled to India, which lies directly in the regions of sunrise; and, full of hope and pride, approached the goal whence his parent begins his course.
 
 The palace of the Sun stood reared aloft on columns, glittering with gold and precious stones, while polished ivory formed the ceilings, and silver the doors. The workmanship surpassed the material `[Materiem superabat opus. — Ovid.]`; for upon the walls Vulcan had represented earth, sea and skies, with their inhabitants. In the sea were the nymphs, some sporting in the waves, some riding on the backs of fishes, while others sat upon the rocks and dried their sea-green hair. Their faces were not all alike, nor yet unlike, — but such as sisters' ought to be. `[Facies non omnibus una, Nec diversa tamen, qualem decet esse sororum. — Ovid.]` The earth had its towns and forests and rivers and rustic divinities. Over all was carved the likeness of the glorious heaven; and on the silver doors the twelve signs of the zodiac, six on each side.
 
@@ -95,7 +100,7 @@ The Transformation of SYRINX into Reeds. (p31)
 ...
 
 Her Son was Epaphus, at length believ'd  
-The Son of ove, and as a God receiv'd;  
+The Son of Jove, and as a God receiv'd;  
 With Sacrifice adord, and publick Pray'rs,  
 He common Temples with his Mother ſhares.  
 Equal in Years and Rival in Renown  
@@ -253,7 +258,7 @@ For Anguiſh thrice his radiant Head he ſhook;
 "Tethys her ſelf has fear'd to ſee me driv'n  
 "Down headlong from the Precipice of Heav'n.  
 "Beſides, conſider what impetuous Force  
-"Turns Stars and Planets in a diff rent Courſe.  
+"Turns Stars and Planets in a diff'rent Courſe.  
 "I ſteer againſt their Motions; nor am I  
 "Born back by all the Current of the Sky.  
 "But how cou'd you reſiſt the Orbs that roul  
@@ -585,7 +590,7 @@ Supply the Sun, and counterfeit a Day,
 A Day, that ſtill did Nature's Face diſcloſe:  
 This Comfort from the mighty Miſchief roſe.
 
-But Chment, enrag'd with Grief, laments,  
+But Clymenè, enrag'd with Grief, laments,  
 And as her Grief inſpires, her Paſſion vents:  
 Wild for her Son, and frantick in her Woes,  
 With Hair diſhevel'd, round the World ſhe goes,  
@@ -630,7 +635,7 @@ The Leaves and Bark: The Maids were heard to ſay,
 Clos'd on their Faces, and their Words ſuppreſs'd.
 
 The new-made Trees in Tears of Amber run,  
-Whhich, harden'd into Value by the Sun,  
+Which, harden'd into Value by the Sun,  
 Diſtill for ever on the Streams below:  
 The limpid Streams their radiant Treaſure ſhow,  
 Mixt in the Sand; whence the rich Drops convey'd  
@@ -756,3 +761,7 @@ L96-434
 
 [432] "But the sisters of the charioteer fallen to his early death changed their shape into trees, and from the weeping trees they distil precious dew `[Amber.]` out of their leaves."
 ```
+
+In a modern translation by A. D. Melville (2004), the horses are named *"Sol [Helios], Aethon (Blaze), Eous (Dawn), Pyrois (Fire) and Phlegon (Flame)".
+
+It is perhaps worth noting that Clymene's sons seemed to have a thing about fire. Prometheus was another of her sons, for example, but his tale is a tale for another day.
