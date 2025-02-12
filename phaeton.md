@@ -4,7 +4,7 @@ I first heard this tale told in modern form, in the round, in a performance of [
 
 The gist of the tale is as follows:
 
-> Phaethon, 
+> Phaethon,
 
 
 A narrative version appears in Bulfinch's *"Age of Fable, or, Stories of gods and heroes"* of 1855.
