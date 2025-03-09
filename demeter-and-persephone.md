@@ -4,7 +4,7 @@ One of my favourite classical tales, that explains the two halves of the year by
 
 The gist of the tale:
 
-> Hades falls for the virginal Persephone, and makes a plan with Zeus to take her to the underworld. Demeter is distraught at the loss of her daughter, and scours the world for her. Eventually she hears tell that Persephone is in the land of Hades. A deal is struck to return Persephone, as long as she hasnlt eaten anyting. But she has, and as a result must spend part of the year in the underworld, that time we now know as Winter. When she wals the Earth with her mother, it is spring and summer.
+> Hades falls for the virginal Persephone, and makes a plan with Zeus to take her to the underworld. Demeter is distraught at the loss of her daughter, and scours the world for her. Eventually she hears tell that Persephone is in the land of Hades. A deal is struck to return Persephone, as long as she hasn't eaten anything. But she has, and as a result must spend part of the year in the underworld, that time we now know as Winter. When she walks the Earth with her mother, it is spring and summer.
 
 ```{seealso}
 Hades also has form. For example, see Pan (Hades) and Syrinx, at the end of Ovid's *Metamorphoses: Book 1*.
@@ -24,7 +24,6 @@ In terms of tellings, I quite like the Homeric *Hymn to Demeter* (see the rework
 HYMN TO DEMETER
 Translated by Hugh G.Evelyn-White
 published 1914, Loeb Classical Library
-
 
 I begin to sing of rich-haired Demeter, awful goddess — of her and her trim-ankled daughter whom Aidoneus [Hades] rapt away, given to him by all-seeing Zeus the loud-thunderer. Apart from Demeter, lady of the golden sword and glorious fruits, she was playing with the deep-bosomed daughters of Oceanus and gathering flowers over a soft meadow, roses and crocuses and beautiful violets, irises also and hyacinths and the narcissus which Earth made to grow at the will of Zeus and to please the Host of Many, to be a snare for the bloom-like girl — a marvellous, radiant flower. It was a thing of awe whether for deathless gods or mortal men to see: from its root grew a hundred blooms and it smelled most sweetly, so that all wide heaven above and the whole earth and the sea's salt swell laughed for joy. And the girl was amazed and reached out with both hands to take the lovely toy; but the wide-pathed earth yawned there in the plain of Nysa, and the lord, Host of Many, with his immortal horses sprang out upon her — the Son of Cronos, He who has many names.[1]
 
@@ -553,7 +552,7 @@ Demeter’s daughter, her whom none may name, by secret schemings Pluton, men sa
 
 ```
 
-```{admonition}  Diodorus Siculus, * Ceres and Proserpina*, transl. Gent, 1653
+```{admonition} Diodorus Siculus, *Ceres and Proserpina*, transl. Gent, 1653
 :class: dropdown
 
 In *The history of Diodorus Siculus, containing all that is most memorable and of greatest antiquity in the first ages of the world, until the war of Troy*, Henry Gent, 1653, Book VI, p226-228](https://archive.org/details/bib_fict_4102574/page/226/mode/2):
@@ -567,12 +566,12 @@ It is well known that these Godesses (who without question were the discoverers 
 
 Via [theoi.com](https://www.theoi.com/Olympios/DemeterWrath.html#Minthe), we also learn from Oppian that, once married, Demeter was a vengeful mother-in-law, crushing the nymph Minthe underfoot for having previously had an affair with Hades and then claiming to be more desirable than Persepnhone:
 
-```{admonition}
+```{admonition} Minthe's indiscretion
 :class: dropdown
 
 In *Oppian*,  HALIEUTICA, III. 482-501, transl. by A.W. Mair, 1928, [p387](https://archive.org/details/oppiancolluthust00oppiuoft/page/386/mode/2up):
 
-Therewith they knead also the sweet-smelling herb of mint. Mint, men say, was once a maid `[ Strabo 344]` beneath the earth, a Nymph of Cocytus, and she lay in the bed of Aidoneus `[TH: that is, Hades]`; but when he raped the maid - Persephone from the Aetnaean hill, then she complained loudly with overweening words and raved foolishly for jealousy, and Demeter in anger trampled upon her with her feet and destroyed her. For she had said that she was nobler of form and more excellent in beauty than dark-eyed Persephone and she boasted that Aidoneus would return to her and banish the other from his halls: such infatuation leapt upon her tongue. And from the earth sprang the weak herb that bears her name.
+Therewith they knead also the sweet-smelling herb of mint. Mint, men say, was once a maid `[Strabo 344]` beneath the earth, a Nymph of Cocytus, and she lay in the bed of Aidoneus `[TH: that is, Hades]`; but when he raped the maid - Persephone from the Aetnaean hill, then she complained loudly with overweening words and raved foolishly for jealousy, and Demeter in anger trampled upon her with her feet and destroyed her. For she had said that she was nobler of form and more excellent in beauty than dark-eyed Persephone and she boasted that Aidoneus would return to her and banish the other from his halls: such infatuation leapt upon her tongue. And from the earth sprang the weak herb that bears her name.
 
 ```
 
