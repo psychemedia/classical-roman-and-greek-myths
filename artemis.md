@@ -1,6 +1,6 @@
 # Artemis
 
-Zeus' favourite daughter, she wraps him round her little finger and makes many demands of him:
+Daughter of Zeus and Leto, and twin of Apollo, as a teenager (?) Artemis wraps her father round her little finger and makes many demands of him:
 
 ```{admonition} Gifts from Zeus, Callimachus
 
