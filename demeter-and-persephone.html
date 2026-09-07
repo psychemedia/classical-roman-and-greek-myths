@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'demeter-and-persephone';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://classics.montystoryteller.org/demeter-and-persephone.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Demeter and Persephone — Reworked from the Homeric Hymn" href="demeter-persephone-homeric-hymn.html" />
     <link rel="prev" title="Preface" href="preface.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,55 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+</div>
+
     </header>
   
 
@@ -124,7 +164,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +195,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -194,9 +231,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -279,7 +321,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -293,24 +335,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -341,7 +375,7 @@ document.write(`
 <p>One of my favourite classical tales, that explains the two halves of the year by way of the descent to the underworld by Persephone for the winter months, and her return to the upper world for the remaining months.</p>
 <p>The gist of the tale:</p>
 <blockquote>
-<div><p>Hades falls for the virginal Persephone, and makes a plan with Zeus to take her to the underworld. Demeter is distraught at the loss of her daughter, and scours the world for her. Eventually she hears tell that Persephone is in the land of Hades. A deal is struck to return Persephone, as long as she hasnlt eaten anyting. But she has, and as a result must spend part of the year in the underworld, that time we now know as Winter. When she wals the Earth with her mother, it is spring and summer.</p>
+<div><p>Hades falls for the virginal Persephone, and makes a plan with Zeus to take her to the underworld. Demeter is distraught at the loss of her daughter, and scours the world for her. Eventually she hears tell that Persephone is in the land of Hades. A deal is struck to return Persephone, as long as she hasn’t eaten anything. But she has, and as a result must spend part of the year in the underworld, that time we now know as Winter. When she walks the Earth with her mother, it is spring and summer.</p>
 </div></blockquote>
 <div class="admonition seealso">
 <p class="admonition-title">See also</p>
@@ -786,12 +820,17 @@ And rain of Zeus gives increase unto them.</p>
 <p>[5.5.3] surely a benefaction greater than these discoveries of hers one could not find; for they embrace both living and living honourably. However, as for the myths which are current among the Siceliotae, we shall be satisfied with what has been said.</p>
 </div>
 <div class="dropdown admonition">
-<p class="admonition-title">Diodorus Siculus, * Ceres and Proserpina*, transl. Gent, 1653</p>
+<p class="admonition-title">Diodorus Siculus, <em>Ceres and Proserpina</em>, transl. Gent, 1653</p>
 <p>In <em>The history of Diodorus Siculus, containing all that is most memorable and of greatest antiquity in the first ages of the world, until the war of Troy</em>, Henry Gent, 1653, Book VI, p226-228](<a class="reference external" href="https://archive.org/details/bib_fict_4102574/page/226/mode/2">https://archive.org/details/bib_fict_4102574/page/226/mode/2</a>):</p>
 <p>Chap. II of Ceres and Proserpina, and the invention of Corne.</p>
 <p>It is well known that these Godesses (who without question were the discoverers thereof) were in high estimation in Sicilia, they alledge the rape of Proserpina for an argument that these goddesses lived in this land, as a place wherein they much delighted. The rape of Proserpena (they say) was in the fields near Aetna hard by the City, which are garnished with Lilies and severall kinds of flowers meet for a Godess; insomuch that hounds there through the fragrancy of the smell lose their sents, the sweetneesse of the flowers overcoming their sense. This medow on the upper part thereof is exceeding plain, encompassed round by spreading waters, and parted on all sides by precipices, whence some have called it the Nayill of Sicilie: There are adjoyning to it groves, medowes, and moores on all sides, moreover a great Cave they say there is, which hath a passage under ground opening towards the North; through which (they faign) that Pluto passed with his charret, when he carried away Proserpina: they would have us beleeve that the Lilies, and other sweet flowers which delight the sight continue green all the year. If we beleeve fables, they tell that Minerva and Diana virgin Godesses being brought up with Proserpina, were wont to gather flowers together, and to make garments for their Father Jupiter; by reason of which fellowfsip and familiarity, they all came to love that Iland, each of them having such a place as they made choyce of: now Minerva chose the Countries about Hymera, wherein the Nymphes (to do her a favour at Hercules coming) made Fountaines of hot water to spring; which places, together with the City which to this day beares her name, the Inhabitants consecrated to her. Diana likewise had given her by the gods an Iland in Syracuse, which she called by the answer and voyce of the Oracle Ortygia; in this Iland likewise did the Nymphes in favour of Diana produce a fountain which is called Arethusa: this fountain not only heretofore, but even now in our times breeds abundance. of sacred fish, for they are not touched by the Inhabitants; they who in time of War have been bo’d to eat of them, have by the anger of the gods been afflicted with great calamities: but of these things hereafter. Proserpina (as the other Godesses had done) made choyce of the medowes about Aetma, to whom there is dedicated by the Syracusians a large fountain called Cyane: but when Pluto had carried away Proserpina to hell in his Chariot, through a cave of the earth near Syracuse, the Syracusians atterwards kept certain holydays every year near Cyane, where they sacrificed privately lesser victimes; publickly they drowned buls in the Lake, in imitation of Hercules who used the like sacrifices when he drove Geryon’s Oxen through Sicila. They report then that Ceres when she could not finde her daughter, took torches which she ;ighted in Aetna, and wander’d through severall parts of the World to finde her out, and that to gratifie those men who had kindely entertained her, she instructed them in the use of Corne; among whom, those who shewed most civility to the Godesse (next to the Sicilians) were the Athenians, who for this reason have honour’d this Godesse above all the rest, both with ample sacrifices, and the mysteries of Eleusina, which for their antiquity and chastenesse are talked of among all men: many of the Athenians having for their civility sake the benefit of Corne bestowed upon them, imparted it to their next neighbours: and from them it came, to be communicated almost to all the World; but the Sicilians being moved by Ceres and Proserpinaes indulgence towards them, (as being the first that received the use of Corne from them ) instituted sacrifices and ceremones to each of them, at a severall season of the year: to Proserpina Autumn with as much purenesse and zeal, as the respect which they owed to so great a benefit did require. But to Ceres in seed-time when they celebrated ten holydays, with all exquisite preparation and magnificence representing their former life: in which dayes they used obscene talke one to another, that thereby the grief which the Godesse conceived for the rape of her daughter might be mitigated by laughter, and scurrilous language. Now all as well Historians as Poets, do affirme that the rape. of Proserpina was in the manner as we have related. . Carcinas a Tragedian who came often to Syracuse, seeing the zeal which was used in those sacrifices, affirmes in a Poem of his, that Proserpina being taken <a class="reference external" href="http://away.by">away.by</a> Pluto and carried to hell, Ceres taking fire trom Aetna to search for her made known the use of Corne, for which she was accounted a Godesse. We are not to omit the good turnes of this Godesse done to men, for besides her finding out of Corne, she made Lawes also whereby men might learn to accustome themselves to live justly and piously, whence she was called Dea legifera, the Legislative Godesse, which things are so usefull that none can easily invent greater, seeing that hereby we are taught not only to live, but to live well, and honestly: but of this before.</p>
 </div>
 <p>Via <a class="reference external" href="https://www.theoi.com/Olympios/DemeterWrath.html#Minthe">theoi.com</a>, we also learn from Oppian that, once married, Demeter was a vengeful mother-in-law, crushing the nymph Minthe underfoot for having previously had an affair with Hades and then claiming to be more desirable than Persepnhone:</p>
+<div class="dropdown admonition">
+<p class="admonition-title">Minthe’s indiscretion</p>
+<p>In <em>Oppian</em>,  HALIEUTICA, III. 482-501, transl. by A.W. Mair, 1928, <a class="reference external" href="https://archive.org/details/oppiancolluthust00oppiuoft/page/386/mode/2up">p387</a>:</p>
+<p>Therewith they knead also the sweet-smelling herb of mint. Mint, men say, was once a maid <code class="docutils literal notranslate"><span class="pre">[Strabo</span> <span class="pre">344]</span></code> beneath the earth, a Nymph of Cocytus, and she lay in the bed of Aidoneus <code class="docutils literal notranslate"><span class="pre">[TH:</span> <span class="pre">that</span> <span class="pre">is,</span> <span class="pre">Hades]</span></code>; but when he raped the maid - Persephone from the Aetnaean hill, then she complained loudly with overweening words and raved foolishly for jealousy, and Demeter in anger trampled upon her with her feet and destroyed her. For she had said that she was nobler of form and more excellent in beauty than dark-eyed Persephone and she boasted that Aidoneus would return to her and banish the other from his halls: such infatuation leapt upon her tongue. And from the earth sprang the weak herb that bears her name.</p>
+</div>
 <p>Demeter and Persephone</p>
 <p><a class="reference external" href="https://www.theoi.com/Olympios/Demeter.html">https://www.theoi.com/Olympios/Demeter.html</a></p>
 <p>Homeric hymn to Demeter <a class="reference external" href="https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/">https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/</a></p>
@@ -878,7 +917,7 @@ By Tony Hirst
 
   <p class="copyright">
     
-      © Copyright 2023.
+      © Copyright 2023-2026.
       <br/>
     
   </p>
@@ -902,8 +941,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>
