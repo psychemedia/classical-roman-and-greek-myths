@@ -8,7 +8,7 @@ The gist of the tale is this:
 
 Ovid, in the third fable of the third book of *Metamorphoses*, describes the tale thus:
 
-```{admonition}
+```{admonition} In Ovid's "Metamorphoses"
 :class: dropdown
 
 From [*The Metamorphoses of Ovid*](https://archive.org/details/metamorphosesofo00ovid_0/page/90/mode/2up), transl. Henry T.Riley, 1889, pp. 90-6 (text taken from [Project Gutenberg](https://www.gutenberg.org/files/21765/21765-h/21765-h.htm)):
@@ -100,9 +100,7 @@ Look into the fifth next, and you will see Actaion also, whom no pricket brought
 
 ...
 
-https://archive.org/details/dionysiaca01nonnuoft/page/189/mode/1up
-
-pp. 189-207
+[pp. 189-207](https://archive.org/details/dionysiaca01nonnuoft/page/189/mode/1up)
 
 [287] Afterwards from the bed of Aristaios and Autonoë, arose Actaion. His passion was for the rocks; and having in him the blood of the Hunter,`[A title of Apollo.]` he took the mould of his huntsman father, and became a mountainranging servant of Artemis – no wonder that illfated Actaion learnt the practice of the chase, when he was born grandson to lionslaying Cyrene! Never a bear escaped him on the hills; not even the baneful eye of the lioness with young could make his heart flutter. Many a time he lay in wait for the panther, and laid low as she leapt on him high in air. Shepherd Pan would ever gaze at him over the bushes with wondering eyes, while he outstripped the running of the swift stag. But his running feet availed him nothing, his quiver helped him not, nor the straight shot, the cunning of the chase; but the Portioner (Moira) destroyed him, a scampering fawn worried by dogs, while still breathing battle after the Indian war. For as he sat up in a tall oak tree amid the spreading boughs, he had seen the whole body of the Archeress bathing; and gazing greedily on the goddess that none may see, he surveyed inch by inch the holy body of the unwedded virgin close at hand. A Naiad nymph unveiled espied him from afar with a sidelong look, as he stared with stolen glances on the unclothed shape of her queen, and shrieked in horror, telling her queen the wild daring of a lovesick man. Artemis half revealed caught up her dress and encircling shawl, and covered her modest breasts with the maiden zone in shame, and sank with gliding limbs into the water, until by little and little all her form was hidden.
 
